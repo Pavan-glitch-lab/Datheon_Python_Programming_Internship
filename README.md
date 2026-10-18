@@ -45,6 +45,7 @@ A Python program that tracks stock investments and calculates invested capital, 
 ## Repository Structure
 
 ```text
+
 Datheon_Python_Programming_Internship/
 ├── Task-1-Hangman-Game/
 │   ├── hangman.py
@@ -54,7 +55,10 @@ Datheon_Python_Programming_Internship/
 │   ├── sample_prices.csv
 │   ├── constituents.csv
 │   └── portfolio_summary.csv
+├── Task-3-File-Organizer/
+│   └── organizer.py
 └── README.md
+
 ```
 
 ## Author
