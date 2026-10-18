@@ -60,3 +60,31 @@ Datheon_Python_Programming_Internship/
 ## Author
 
 Pavan Gowda C B
+
+
+## Task 3: File Organizer
+
+### Description
+A Python automation utility that organizes files into category folders based on their file extensions.
+
+### Features
+- Automatically creates Documents, Images, Videos, Archives, and Code folders.
+- Moves files according to their extensions.
+- Avoids overwriting files by generating unique filenames.
+- Handles permission and file-operation errors.
+- Records operations and errors in a log file.
+- Displays a summary of moved, skipped, and failed files.
+
+### Technologies Used
+- Python 3
+- os
+- shutil
+- pathlib
+- logging
+
+### How to Run
+1. Open a terminal inside the Task-3-File-Organizer folder.
+2. Run `python organizer.py`.
+3. Enter the path of the folder you want to organize.
+
+**Note:** Test the program on a sample folder before using it on important directories.
